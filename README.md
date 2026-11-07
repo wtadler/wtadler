@@ -1,4 +1,4 @@
-Hi! I'm Research Director of the Elections Project at the [Bipartisan Policy Center](https://bipartisanpolicy.org/policy-area/elections/), working on election technology, administration, and security. I previously worked at the [Center for Democracy & Technology](https://cdt.org/), did a AAAS Congressional Fellowship, did a PhD in computational neuroscience at the [@WeiJiMaLab](https://github.com/WeiJiMaLab) at NYU. More on all that and research/writings at [wtadler.com](https://wtadler.com/).
+Hi! I'm Research Director of the [Elections Project at the Bipartisan Policy Center](https://bipartisanpolicy.org/policy-area/elections/), working on election technology, administration, and security. I previously worked at the [Center for Democracy & Technology](https://cdt.org/), did a AAAS Congressional Fellowship, and did a PhD in computational neuroscience at the [@WeiJiMaLab](https://github.com/WeiJiMaLab) at NYU. More on all that and research/writings at [wtadler.com](https://wtadler.com/).
 
 ### Projects
 
